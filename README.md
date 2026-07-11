@@ -1,5 +1,10 @@
 # 🧠 AI-Powered Real-Time Surveillance System
 
+
+https://github.com/user-attachments/assets/cfbb328a-50b9-45d0-a58c-6554e0954ff1
+
+
+
 This project is an **intelligent CCTV monitoring system** that combines **computer vision, deep learning, and vision-language models (VLMs)** to automatically analyze live video streams and detect suspicious activities in real time.
 
 It integrates:
