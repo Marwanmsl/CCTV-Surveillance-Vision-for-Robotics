@@ -1,7 +1,7 @@
 # 🧠 AI-Powered Real-Time Surveillance System
 
 
-https://github.com/user-attachments/assets/cfbb328a-50b9-45d0-a58c-6554e0954ff1
+
 
 
 
